@@ -1,4 +1,4 @@
-# generates a 320x256 movetable with interleaved UV coordinates encoded in 16 bit unsigned shorts (little endian).
+# generates a 320x256 movetable LUT with interleaved UV coordinates encoded in 16 bit unsigned shorts (little endian).
 
 import math
 
